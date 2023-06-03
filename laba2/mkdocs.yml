@@ -1,0 +1,9 @@
+site_name: My Docs
+nav:
+  - Lab:
+    - lab2sem2.md
+    - gamemain.md
+  - Home : index.md
+plugins:
+    - mkdocstrings
+theme: readthedocs
